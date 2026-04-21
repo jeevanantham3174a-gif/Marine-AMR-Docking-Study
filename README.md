@@ -4,7 +4,7 @@
 This project studies antimicrobial resistance in Vibrio vulnificus using computational methods.
 
 ## Tools Used
--prodigal(prokaryotic ORF finder)
+- Prodigal (Prokaryotic gene prediction)
 - CARD (AMR gene identification)
 - CB-Dock2 (Molecular docking)
 - PyMOL (Visualization)
