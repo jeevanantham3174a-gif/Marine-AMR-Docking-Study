@@ -1,7 +1,7 @@
 # Marine Natural Products vs Superbugs
 
 ## Description
-This project studies antimicrobial resistance in Vibrio vulnificus using computational methods.
+This project investigates antimicrobial resistance in Vibrio vulnificus and evaluates Manoalide as a potential multi-target inhibitor using computational approaches.
 
 ## Tools Used
 - Prodigal (Prokaryotic gene prediction)
